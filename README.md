@@ -37,3 +37,5 @@ cd tfc-getting-started
 ```
 
 Welcome to HCP Terraform!
+
+#policy changed inline. Now it should definitely failed
